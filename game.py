@@ -8,7 +8,7 @@ correctDifficulty = False
 
 areas = ["Cave", "Forest", "Ravine", "Castle", "Town", "Deep Dark Place"]
 
-enemies = ["Goblin", "Dragon", "Witch", "Creeper", "Mother Fucker"]
+enemies = ["Goblin", "Dragon", "Witch", "Creeper", "Jake Pauler"]
 
 options = """OPTIONS:
 "s" To Search
